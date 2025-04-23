@@ -1,6 +1,6 @@
 # 🧠⚖️ Legal GraphRAG (Prueba)
 
-Este proyecto es una **prueba de concepto** de un sistema **GraphRAG legal** utilizando:
+Este proyecto es una **prueba de viabilidad** de un sistema **GraphRAG legal** utilizando:
 
 - [LangChain](https://www.langchain.com/)
 - [Neo4j](https://neo4j.com/)
