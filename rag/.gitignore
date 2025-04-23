@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de entorno
+*.env
+
+# __pycache__ y archivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos de paquetes
+*.egg-info/
+dist/
+build/
+
+# Otros
+.DS_Store
